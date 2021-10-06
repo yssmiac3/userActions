@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "id" : "id",
+            "nickname" : "id",
+            "firstName" : "id",
+            "lastName" : "id",
+            "age" : "id",
+            "password" : "password"
+        },
+        {
+            "id" : "id",
+            "nickname" : "id",
+            "firstName" : "id",
+            "lastName" : "id",
+            "age" : "id",
+            "password" : "password"
+        }
+    ]
+}
